@@ -15,6 +15,11 @@ page = new PageComponent
   scrollHorizontal: false 
   scrollVertical: false
   
+test = new Layer
+	width: 200
+	height: 200
+
+
 #page 1
 mainScreen = new Layer
 	width: page.width
