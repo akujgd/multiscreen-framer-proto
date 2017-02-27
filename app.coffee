@@ -17,7 +17,7 @@ page = new PageComponent
   
 test = new Layer
 	width: 200
-	height: 200
+
 
 
 #page 1
